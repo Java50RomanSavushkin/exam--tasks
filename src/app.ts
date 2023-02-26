@@ -25,4 +25,4 @@ function checkSymbol(symbol: string): number {
     let symbolCode = symbol.charCodeAt(0);
     return (symbolCode >= aChar && symbolCode <= zChar) ? symbolCode : NaN;
 }
-console.log(shiftRound("b", -1));
+console.log(shiftRound("aabx!", -4));
