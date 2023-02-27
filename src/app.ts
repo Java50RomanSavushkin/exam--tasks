@@ -23,6 +23,6 @@ function shiftRound(string: string, shift: number): string {
 }
 function checkSymbol(symbol: string): number {
     let symbolCode = symbol.charCodeAt(0);
-    return (symbolCode >= aChar && symbolCode <= zChar) ? symbolCode : NaN;
+    return (symbolCode >= aChar && symbolCode <= zChar) ? symbolCode : NaN; 
 }
 console.log(shiftRound("aabx!", -4));
