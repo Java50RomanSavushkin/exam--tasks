@@ -5,14 +5,6 @@ node_modules/
 # src/**/*.js
 
 
-/src/app.js
-/src/app.js.map
-/src/Container.js
-/src/displayProps.js
-/src/displayProps.js.map
-/src/Rectangle.js
-/src/Rectangle.js.map
-/src/Shape.js
-/src/Shape.js.map
-/src/Square.js
-/src/Square.js.map
+src/*.js
+src/*.js.map
+src/Container.js.map
