@@ -1,6 +1,13 @@
-node_modules
-/src/**.js
-/src/**.js.map
-/.DS_Store
+# node_modules
+# /src/**.js
+# /src/**.js.map
+# /.DS_Store
 
-/src/app.js
+# /src/app.js
+# /src/app.js.map
+# /src/Container.js
+# /src/Container.js.map
+node_modules/
+/dist/
+**/*.js.map
+**/.DS_Store
